@@ -105,3 +105,29 @@ C:\Users\P7XXTM1-G\Documents\GitHub\Voting-System\VotingSystem version2\VotingSy
 C:\Users\P7XXTM1-G\Documents\GitHub\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.csproj.CoreCompileInputs.cache
 C:\Users\P7XXTM1-G\Documents\GitHub\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.exe
 C:\Users\P7XXTM1-G\Documents\GitHub\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.pdb
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\bin\Debug\VotingSystem.exe.config
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\bin\Debug\VotingSystem.exe
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\bin\Debug\VotingSystem.pdb
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.csprojAssemblyReference.cache
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.AdminMenu.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.AuditorChoose.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.CandidateInformation.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.CandidateInformation2.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.CandidateIntroduction1.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.HomePage.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.Login.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.ManageCandidateInformation.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.Register.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.StartVoting.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.StartVoting2.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.VoterInformation.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.ManageVotingStatement.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.VotingChoose.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.VotingControl.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.Voting_Data_Graphic.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.VotingSetting.resources
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.cache
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.csproj.CoreCompileInputs.cache
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.exe
+G:\Coding\Visual Studio\C#\.NET Framework\Windows Forms\Voting-System\VotingSystem version2\VotingSystem\obj\Debug\VotingSystem.pdb
